@@ -21,8 +21,10 @@
 <br/>
 <!-- <p align="left"> <a href="https://twitter.com/PoojaBanaulikar" target="blank"><img src="https://img.shields.io/twitter/follow/PoojaBanaulikar?logo=twitter&style=for-the-badge" alt="PoojaBanaulikar" /></a> </p>
  -->
+ 
+
 ## My GitHub Stats 📊
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PoojaBanaulikar&show_icons=true&locale=en&theme=algolia" alt="PoojaBanaulikar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PoojaBanaulikar&show_icons=true&locale=en&theme=algolia"alt="PoojaBanaulikar" /></p>
 
 
