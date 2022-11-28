@@ -5,7 +5,7 @@
 -->
 - :computer: Computer Engineering 
 * 🔭 I’m Interested in Front-end Development.
-+ 🌱 I’m currently learning React.
+<!-- + 🌱 I’m currently learning React. -->
 
 
 ## Connect with me:
